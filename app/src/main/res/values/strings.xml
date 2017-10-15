@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mapremiereapplication</string>
+    <string name="submit_label">submit</string>
+    <string name="Nothing_Label">Nothing Yet</string>
+    <string name="Submit_Label">Submit</string>
+    <string name="enter_any_text_label">Enter any text</string>
+</resources>
